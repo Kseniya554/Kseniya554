@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://proprikol.ru/wp-content/uploads/2020/04/krasivye-kartinki-vysokogo-razresheniya-48.jpg" align="center" style="width: 100%" />
+<img src="https://proprikol.ru/wp-content/uploads/2020/04/krasivye-kartinki-vysokogo-razresheniya-48.jpg" align="center" style="width: 100%, height: 50%" />
 </div>  
   
 
